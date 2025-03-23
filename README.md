@@ -1,4 +1,4 @@
-title: Kokoro Text-to-Speech (WebGPU)
+## title: Kokoro Text-to-Speech (WebGPU)
 emoji: 🗣️⚡
 colorFrom: yellow
 colorTo: green
